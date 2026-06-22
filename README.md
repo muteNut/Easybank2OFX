@@ -130,4 +130,4 @@ network calls and sends your statement data nowhere.
 
 ## License
 
-MIT — see `LICENSE` (add one if you haven't yet).
+MIT — see `LICENSE`
